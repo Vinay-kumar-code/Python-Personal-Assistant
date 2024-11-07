@@ -22,7 +22,7 @@ speaker = win32com.client.Dispatch("SAPI.SpVoice")
 whisper_model = whisper.load_model("small.en")
 
 # Hugging Face API 
-HUGGINGFACE_API_KEY = "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"  # Add your API token
+HUGGINGFACE_API_KEY = "Your hugging face api key"  
 client = InferenceClient(api_key=HUGGINGFACE_API_KEY)
 HUGGINGFACE_MODEL = "meta-llama/Llama-3.2-11B-Vision-Instruct"
 
