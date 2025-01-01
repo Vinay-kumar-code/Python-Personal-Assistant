@@ -20,6 +20,8 @@ Python 3.8 or above installed on your system.
 All required Python libraries installed (see Dependencies).
 Ollama setup and configured on your device for AI interactions.
 A valid Hugging Face API key for online question-answering functionality.
+Add gemini 2 flash exp model for online reasoning because of the models capability.
+
 
 
 
